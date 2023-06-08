@@ -1,0 +1,159 @@
+*{
+	background-color: black;
+}
+h1{
+	font-size: 80px;
+	font-family: arial black;
+	color: fuchsia;
+	text-align: center;
+}
+.p1{
+	font-size: 15px;
+	font-family: arial black;
+	color: pink;
+	text-align: center;
+}
+#p2{
+	font-size: 30px;
+	font-family: arial black;
+	color: fuchsia;
+	text-align: center;
+}
+#p3{
+	font-size: 15px;
+	font-family: arial black;
+	color: deepskyblue;
+	text-align: right;
+}
+#p4{
+	font-size: 15px;
+	font-family: arial black;
+	color: gold;
+	text-align: left;
+}
+#p5{
+	font-size: 15px;
+	font-family: arial black;
+	color: hotpink;
+	text-align: right;
+}
+#p6{
+	font-size: 15px;
+	font-family: arial black;
+	color: magenta;
+	text-align: left;
+}
+#p7{
+	font-size: 15px;
+	font-family: arial black;
+	color: darkmagenta;
+	text-align: right;
+}
+#p8{
+	font-size: 15px;
+	font-family: arial black;
+	color: turquoise;
+	text-align: left;
+}
+#p9{
+	font-size: 30px;
+	font-family: arial black;
+	color: indigo;
+	text-align: center;
+}
+#p10{
+	font-size: 15px;
+	font-family: arial black;
+	color: lightseagreen;
+	text-align: right;
+}
+#p11{
+	font-size: 15px;
+	font-family: arial black;
+	color: blueviolet;
+	text-align: left;
+}
+#p12{
+	font-size: 15px;
+	font-family: arial black;
+	color: #990066;
+	text-align: right;
+}
+#p13{
+	font-size: 30px;
+	font-family: arial black;
+	color: red;
+	text-align: center;
+}
+#p14{
+	font-size: 15px;
+	font-family: arial black;
+	color: mediumblue;
+	text-align: left;
+}
+#p15{
+	font-size: 15px;
+	font-family: arial black;
+	color: green;
+	text-align: right;
+}
+#p16{
+	font-size: 15px;
+	font-family: arial black;
+	color: #FDD835;
+	text-align: left;
+}
+#p17{
+	font-size: 15px;
+	font-family: arial black;
+	color: #C2185B;
+	text-align: right;
+}
+#p18{
+	font-size: 15px;
+	font-family: arial black;
+	color: darkorange;
+	text-align: left;
+}
+#p19{
+	font-size: 15px;
+	font-family: arial black;
+	color: #9C27B0;
+	text-align: right;
+}
+#p20{
+	font-size: 15px;
+	font-family: arial black;
+	color: lime;
+	text-align: left;
+}
+h3{
+	font-size: 30px;
+	font-family: arial black;
+	color: fuchsia;
+	text-align: center;
+}
+#p21{
+	font-size: 15px;
+	font-family: arial black;
+	color: violet;
+	text-align: right;
+}
+#p22{
+	font-size: 15px;
+	font-family: arial black;
+	color: lightpink;
+	text-align: left;
+}
+#p23{
+	font-size: 15px;
+	font-family: arial black;
+	color: mediumpurple;
+	text-align: right;
+}
+#p24{
+	font-size: 15px;
+	font-family: arial black;
+	color: firebrick;
+	text-align: left;
+}

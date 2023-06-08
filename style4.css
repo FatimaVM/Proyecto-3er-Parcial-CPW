@@ -1,0 +1,35 @@
+*{
+	background-color: black;
+}
+.a{
+	width: 500px;
+	box-shadow: 0 0 4px 2px grey;
+	margin: auto;
+}
+.title{
+	font-family: arial, sans-serif;
+	color: purple;
+	background-color: grey;
+	padding: 8px;
+	font-size: 5rem;
+}
+.body{
+	font-family: italic;
+	text-align: justify;
+	color: purple;
+	padding: 8px;
+}
+.pie{
+	color: purple;
+	background-color: lightgrey;
+	padding: 8px;
+}
+table{
+	text-align: center;
+}
+th{
+	color: purple;
+}
+td{
+	color: darkmagenta;
+}

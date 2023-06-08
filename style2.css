@@ -1,0 +1,117 @@
+*{
+	background-color: black;
+}
+div{
+	font-size: 25px;
+	font-family: arial black;
+	color: fuchsia;
+	text-align: center;
+}
+#p1{
+	font-size: 20px;
+	font-family: arial black;
+	color: green;
+	text-align: left; 
+}
+#p2{
+	font-size: 15px;
+	font-family: arial black;
+	color: forestgreen;
+	text-align: left; 
+}
+#p3{
+	font-size: 20px;
+	font-family: arial black;
+	color: mediumvioletred;
+	text-align: right; 
+}
+#p4{
+	font-size: 15px;
+	font-family: arial black;
+	color: magenta;
+	text-align: right; 
+}
+#p5{
+	font-size: 15px;
+	font-family: arial black;
+	color: mediumblue;
+	text-align: left; 
+}
+#p6{
+	font-size: 15px;
+	font-family: arial black;
+	color: blue;
+	text-align: left; 
+}
+#p7{
+	font-size: 15px;
+	font-family: arial black;
+	color: indigo;
+	text-align: right; 
+}
+#p8{
+	font-size: 15px;
+	font-family: arial black;
+	color: rebeccapurple;
+	text-align: right; 
+}
+#p9{
+	font-size: 15px;
+	font-family: arial black;
+	color: darkorchid	;
+	text-align: left; 
+}
+#p10{
+	font-size: 15px;
+	font-family: arial black;
+	color: darkviolet;
+	text-align: left; 
+}
+#p11{
+	font-size: 15px;
+	font-family: arial black;
+	color: mediumvioletred;
+	text-align: right; 
+}
+#p12{
+	font-size: 15px;
+	font-family: arial black;
+	color: magenta;
+	text-align: right; 
+}
+#p13{
+	font-size: 15px;
+	font-family: arial black;
+	color: darkred;
+	text-align: left; 
+}
+#p14{
+	font-size: 15px;
+	font-family: arial black;
+	color: red;
+	text-align: left; 
+}
+#p15{
+	font-size: 15px;
+	font-family: arial black;
+	color: fuchsia;
+	text-align: right; 
+}
+#p16{
+	font-size: 15px;
+	font-family: arial black;
+	color: violet;
+	text-align: right; 
+}
+#p17{
+	font-size: 15px;
+	font-family: arial black;
+	color: deeppink;
+	text-align: left; 
+}
+#p18{
+	font-size: 15px;
+	font-family: arial black;
+	color: hotpink;
+	text-align: left; 
+}
