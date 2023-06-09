@@ -1,6 +1,11 @@
 *{
 	background-color: black;
 }
+a{
+	font-size: 25px;
+	font-family: arial black;
+	color: darkblue;
+}
 .a{
 	width: 500px;
 	box-shadow: 0 0 4px 2px grey;

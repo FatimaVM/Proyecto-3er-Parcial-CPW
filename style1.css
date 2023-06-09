@@ -1,6 +1,11 @@
 *{
 	background-color: black;
 }
+a{
+	font-size: 25px;
+	font-family: arial black;
+	color: darkblue;
+}
 h1{
 	font-size: 80px;
 	font-family: arial black;

@@ -1,6 +1,11 @@
 *{
 	background-color: black;
 }
+a{
+	font-size: 25px;
+	font-family: arial black;
+	color: darkblue;
+}
 div{
 	font-size: 25px;
 	font-family: arial black;
